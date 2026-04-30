@@ -11,15 +11,19 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=FFFFFF&lines=About+Me" alt="About Me SVG" />
 
-C:\Users\Hakan> whoami
+hakan@ubuntu:~$ whoami
 Hakan
 
-C:\Users\Hakan> type education.txt
+hakan@ubuntu:~$ cat education.txt
 2nd Year Computer Engineering @ Sakarya University
 
-C:\Users\Hakan> .\show_interests.bat
-[+] Full-Stack Development (.NET)
-[+] AI Engineering
+hakan@ubuntu:~$ ./show_interests.sh
+[+] Full-Stack Development (.NET, Angular)
+[+] AI Engineering & Machine Learning
+[+] Microprocessors & Logic Design
+[+] Dedicated Galatasaray Supporter 🦁
 
-C:\Users\Hakan> .\get_projects.exe
+hakan@ubuntu:~$ ./get_projects.sh
+- GUI Video Downloader (Python)
+- Football Squad Builder Web App
 - ...loading more soon...
