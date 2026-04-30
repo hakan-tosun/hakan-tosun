@@ -3,22 +3,23 @@
 </div>
 
 <p align="center">
-  <img src="[https://img.shields.io/github/followers/hakan-tosun?label=FOLLOWERS&style=for-the-badge&color=007acc](https://img.shields.io/github/followers/hakan-tosun?label=FOLLOWERS&style=for-the-badge&color=007acc)" alt="Followers">
-  <img src="[https://img.shields.io/github/stars/hakan-tosun?label=STARS&style=for-the-badge&color=6fb327](https://img.shields.io/github/stars/hakan-tosun?label=STARS&style=for-the-badge&color=6fb327)" alt="Stars">
+  <img src="https://img.shields.io/github/followers/hakan-tosun?label=FOLLOWERS&style=for-the-badge&color=007acc" alt="Followers">
+  <img src="https://img.shields.io/github/stars/hakan-tosun?label=STARS&style=for-the-badge&color=6fb327" alt="Stars">
 </p>
 
-## 🚀 About Me
+<br>
 
-```javascript
-const hakan = {
-  education: "Computer Engineering @ Sakarya University",
-  currentRole: "2nd Year Student & Software Developer",
-  techStack: {
-    backend: [".NET", "Node.js", "Python", "Java", "C#"],
-    frontend: ["Angular", "Vue", "Tailwind CSS"],
-    database: ["SQL"],
-    ai_ml: ["Machine Learning", "AI Engineering"]
-  },
-  currentFocus: "Building efficient Full-Stack solutions and AI models",
-  funFact: "I'm a dedicated supporter of Galatasaray 🦁"
-};
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=FFFFFF&lines=About+Me" alt="About Me SVG" />
+
+C:\Users\Hakan> whoami
+Hakan
+
+C:\Users\Hakan> type education.txt
+2nd Year Computer Engineering @ Sakarya University
+
+C:\Users\Hakan> .\show_interests.bat
+[+] Full-Stack Development (.NET)
+[+] AI Engineering
+
+C:\Users\Hakan> .\get_projects.exe
+- ...loading more soon...
