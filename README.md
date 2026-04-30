@@ -1,6 +1,7 @@
-```markdown
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Always+learning](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Always+learning)" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Always+learning;Full+Stack+Developer;AI+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Always+learning;Full+Stack+Developer;AI+Enthusiast)" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,13 +14,13 @@
 ```javascript
 const hakan = {
   education: "Computer Engineering @ Sakarya University",
-  currentRole: "Student & Aspiring Software Engineer",
+  currentRole: "2nd Year Student & Software Developer",
   techStack: {
-    backend: [".NET", "Node.js", "Python", "Java"],
+    backend: [".NET", "Node.js", "Python", "Java", "C#"],
     frontend: ["Angular", "Vue", "Tailwind CSS"],
     database: ["SQL"],
-    ai_ml: ["Machine Learning", "Deep Learning"]
+    ai_ml: ["Machine Learning", "AI Engineering"]
   },
-  currentFocus: "Building Full-Stack applications and exploring AI Engineering",
+  currentFocus: "Building efficient Full-Stack solutions and AI models",
   funFact: "I'm a dedicated supporter of Galatasaray 🦁"
 };
