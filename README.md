@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Always+learning;Full+Stack+Developer;AI+Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Always+learning;Full+Stack+Developer;AI+Enthusiast)" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&color=38BDF8&center=true&vCenter=true&lines=Always+learning" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="[https://img.shields.io/github/followers/hakan-tosun?label=FOLLOWERS&style=for-the-badge&color=007acc](https://img.shields.io/github/followers/hakan-tosun?label=FOLLOWERS&style=for-the-badge&color=007acc)" alt="Followers">
