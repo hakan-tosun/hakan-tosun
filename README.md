@@ -11,15 +11,4 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=FFFFFF&lines=About+Me" alt="About Me SVG" />
 
-C:\Users\Hakan> whoami
-Hakan
-
-C:\Users\Hakan> type education.txt
-2nd Year Computer Engineering @ Sakarya University
-
-C:\Users\Hakan> .\show_interests.bat
-[+] Full-Stack Development (.NET)
-[+] AI Engineering
-
-C:\Users\Hakan> .\get_projects.exe
 ...loading more soon...
